@@ -110,15 +110,14 @@ For chicken nodes at the chicken-bread boundary:
 <img src="http://www.sciweavers.org/upload/Tex2Img_1640402747/render.png" />
 
 ## Results
-For animated versions of the heatmaps with time evolution, click on the following images to download the relevant mp4s, or navigate through the Results folder to find the relevant animated videos.
+For raw animated videos of the heatmaps with time evolution, click on the following images to download the relevant mp4s, or navigate through the Results folder to find the relevant animated videos.
 
 Corase mesh with h = 1 mm and k = 0.5 s:
-
-[<img src="https://github.com/tszdabee/Panini-Heat-Diffusion-Modelling/blob/main/Results/30s_coarse_mesh/30seccoarse.png?raw=true" />](https://github.com/tszdabee/Panini-Heat-Diffusion-Modelling/blob/b2e951c14533c12fb95d07f3be3707f19bc6c037/Results/30s_coarse_mesh/panini.mp4)
+[![coarse](https://j.gifs.com/K8m2lz.gif)](https://github.com/tszdabee/Panini-Heat-Diffusion-Modelling/blob/b2e951c14533c12fb95d07f3be3707f19bc6c037/Results/30s_coarse_mesh/panini.mp4)
 
 Fine mesh with h = 1 mm and k = 0.5 s:
 
-[<img src="https://github.com/tszdabee/Panini-Heat-Diffusion-Modelling/blob/main/Results/30s_fine_mesh/30secfine.png?raw=true" />](https://github.com/tszdabee/Panini-Heat-Diffusion-Modelling/blob/main/Results/30s_fine_mesh/panini.mp4)
+[![coarse](https://j.gifs.com/WPmlAX.gif)](https://github.com/tszdabee/Panini-Heat-Diffusion-Modelling/blob/main/Results/30s_fine_mesh/panini.mp4)
 
 Animation capture for the above fine mesh:
 

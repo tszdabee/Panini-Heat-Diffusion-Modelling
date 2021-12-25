@@ -1,0 +1,3 @@
+ttl_time = 30sec
+mesh size = 1mm
+time step = 0.5s

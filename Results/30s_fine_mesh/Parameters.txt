@@ -1,0 +1,3 @@
+30 seconds
+0.1mm mesh
+0.005373374 s step
